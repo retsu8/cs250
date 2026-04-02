@@ -139,7 +139,7 @@ public class SlideShow extends JFrame {
 	private String getTextDescription(int i) {
 		String text = ""; 
 		if (i==1){
-			text = "<html><body><font size='5'>#1 The Grand Canyon.</font> <br>Spectacular canyon views and hiking.</body></html>";
+			text = "<html><body><font size='5'>#1 Eugene, Oregon (USA).</font> <br>Nature, nutrition, and nurturing. This one’s ideal for first-timers and longtime wellness warriors alike. It’s giving total Portlandia vibes, and we are here for it! Sober Curator Pro Tip: They have a 5-Day option as well. </body></html>";
 		} else if (i==2){
 			text = "<html><body>#2 Top Destination</body></html>";
 		} else if (i==3){
