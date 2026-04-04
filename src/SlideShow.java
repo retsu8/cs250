@@ -119,6 +119,7 @@ public class SlideShow extends JFrame {
 	 */
 	private String getResizeIcon(int i) {
 		/**
+		 * Changes made 2026-03-31 Detox update
 		 * Changing up images to match detox slideshow concept
 		 */
 		String image = ""; 
@@ -141,7 +142,8 @@ public class SlideShow extends JFrame {
 	 */
 	private String getTextDescription(int i) {
 		/**
-		 * Giving each detox image its own feed to make it pretty
+		 * Changes made 2026-03-31 Detox update
+		 * Giving each detox image its own feed to make it pretty; and give it an explanation
 		 */
 		String text = ""; 
 		if (i==1){
